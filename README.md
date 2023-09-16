@@ -1,4 +1,4 @@
-# Counting People On Escalator Using Yolov8 and OpenCv from scratch
+# Counting People On Escalator Using Yolov8 and OpenCv From Scratch
 
 In this repository, codes have been implemented to Counte people going up and down the escalator.For this purpose, I use OpenCV library and Yolo model.To go along with this repo, I also [wrote an article](https://medium.com/@rahil.gh.moosavi/counting-people-on-escalator-using-yolov8-and-opencv-from-scratch-1da725c0df66) In order to implement step by step
 from scratch.You can run the project according to the instructions below.
@@ -7,3 +7,7 @@ from scratch.You can run the project according to the instructions below.
 - Step3:You can download the zip file of the project and run the "PeopleCounter.py" file on your system in Paycharm, after installing the required libraries.
 <br>- Note: 'sort.py' file related to tracker and 'helper.py' file for saving output video.
 After run the file, The output of identifying and counting people entering and exiting the escalator is saved as a video file(Output.mp4).
+
+Video output
+
+
