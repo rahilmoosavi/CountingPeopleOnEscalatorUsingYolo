@@ -11,3 +11,7 @@ After run the file, The output of identifying and counting people entering and e
 Video output
 
 
+
+
+https://github.com/rahilmoosavi/CountingPeopleOnEscalatorUsingYolo/assets/82846974/a62a4820-bca1-49aa-a673-4042006e2611
+
