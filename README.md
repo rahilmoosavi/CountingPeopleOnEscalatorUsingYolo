@@ -10,7 +10,7 @@ from scratch.You can run the project according to the instructions below.
 <br>- Note: 'sort.py' file related to tracker and 'helper.py' file for saving output video.
 After run the file, The output of identifying and counting people entering and exiting the escalator is saved as a video file(Output.mp4).
 
-<br>- Video output
+# Video output
 
 
 
